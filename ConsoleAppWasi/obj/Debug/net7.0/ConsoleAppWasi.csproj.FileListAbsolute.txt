@@ -1,0 +1,15 @@
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/bin/Debug/net7.0/ConsoleAppWasi
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/bin/Debug/net7.0/ConsoleAppWasi.deps.json
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/bin/Debug/net7.0/ConsoleAppWasi.runtimeconfig.json
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/bin/Debug/net7.0/ConsoleAppWasi.dll
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/bin/Debug/net7.0/ConsoleAppWasi.pdb
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/obj/Debug/net7.0/ConsoleAppWasi.csproj.AssemblyReference.cache
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/obj/Debug/net7.0/ConsoleAppWasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/obj/Debug/net7.0/ConsoleAppWasi.AssemblyInfoInputs.cache
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/obj/Debug/net7.0/ConsoleAppWasi.AssemblyInfo.cs
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/obj/Debug/net7.0/ConsoleAppWasi.csproj.CoreCompileInputs.cache
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/obj/Debug/net7.0/ConsoleAppWasi.dll
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/obj/Debug/net7.0/refint/ConsoleAppWasi.dll
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/obj/Debug/net7.0/ConsoleAppWasi.pdb
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/obj/Debug/net7.0/ConsoleAppWasi.genruntimeconfig.cache
+/Users/nelson/github/ndcporto2023-wasm/ConsoleAppWasi/obj/Debug/net7.0/ref/ConsoleAppWasi.dll

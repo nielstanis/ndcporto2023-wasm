@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d4FG1N4qXT0dOY+K6+C4W2I0c2WtGhJ21PLnVZQmEJk+wYuPNOEWO8OiN9gu3Qr3I2XoBoe3E0jycOzzd/BzSQ==",
+  "success": true,
+  "projectFilePath": "/Users/nelson/github/ndcporto2023-wasm/Extend/ConsoleApp/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/nelson/.nuget/packages/wasmtime/13.0.0/wasmtime.13.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

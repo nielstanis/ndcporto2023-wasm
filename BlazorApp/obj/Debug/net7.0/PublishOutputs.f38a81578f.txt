@@ -1,0 +1,1 @@
+/Users/nelson/github/ndcporto2023-wasm/BlazorApp/test/web.config
